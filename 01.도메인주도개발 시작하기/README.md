@@ -1,7 +1,9 @@
-# 📘 DDD & JPA Book Review
+# [BOOK]도메인주도개발 시작하기
 
 도메인 주도 설계(DDD) 핵심 개념 파악 및 JPA 기반 도메인 모델 구현 패턴 학습을 위한 개인 북리뷰 레포지토리입니다.  
 이론적 아키텍처 수립부터 이벤트 기반 비동기 처리, CQRS 패턴 적용까지의 학습 내용을 정리합니다.
+
+<img width="348" height="442" alt="image" src="https://github.com/user-attachments/assets/a67b8010-4683-4cd7-bf19-524afcfb9c80" />
 
 ---
 
